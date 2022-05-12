@@ -526,7 +526,7 @@ body {
 	.about_us {
 		padding-top: 18rem;
 		padding-bottom: 1.5rem;
-		background-image: url(/assets/img/Hero-background.png);
+		background-image: url(../img/Hero-background.png);
 	}
 
 	.about_project {
